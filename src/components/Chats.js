@@ -62,7 +62,7 @@ export default function Chats() {
             { headers: { "private-key": process.env.REACT_APP_CHAT_ENGINE_KEY }}
           )
           .then(() => setLoading(false))
-          .catch(e => console.log('e', e.response))
+          // .catch(e => console.log('e', e.response))
         })
       })
       // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
