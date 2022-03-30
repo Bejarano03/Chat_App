@@ -16,7 +16,7 @@ The purpose of this app was to allow users to create accounts with their current
 - JSX
 - Firebase
 
-## Future Implmentations
+## Future Implementations
 
 I would like to include a profile page where users can view their profile. This way they can update personal information. I would like to save this information on Firebase as well. 
 
